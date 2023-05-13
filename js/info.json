@@ -1,44 +1,32 @@
 {
   "background": {
-    "video": "video/bg.mp4",
-    "image": "images/bgimg.jpeg"
+    "video": "video/bg2.mp4",
+    "image": "images/pineapple-supply-co-IQ0jqC0Jjuk-unsplash.jpg"
   },
   "userdetails": {
-    "userimage": "images/sq.png",
-    "username": "iamkunal9",
+    "userimage": "images/sahaj.jpg",
+    "username": "ThisIsSahaj",
     "userbio": "A coder, Techie, Eth Hacker!!!"
   },
   "links": {
     "Instagram": {
-      "href": "https://instagram.com/iamkunal9here",
+      "href": "https://instagram.com/_sahaj_jain_",
       "src": "images/icons/instagram.gif"
     },
     "Github": {
-      "href": "https://github.com/iamkunal9",
+      "href": "https://github.com/amsahaj",
       "src": "images/icons/github.gif"
     },
     "Linkedin": {
-      "href": "https://linkedin.com/in/iamkunal9",
+      "href": "https://www.linkedin.com/in/this-is-sahaj-jain/",
       "src": "images/icons/linkedin.gif"
-    },
-    "Twitter": {
-      "href": "https://twitter.com/iamkunal9_",
-      "src": "images/icons/twitter.gif"
-    },
-    "SnapChat": {
-      "href": "https://www.snapchat.com/add/kunalsharma0553?share_id=m-2FitLng4E&locale=en-US",
-      "src": "images/icons/snap.gif"
-    },
-    "YouTube":{
-      "href": "https://www.youtube.com/@iamkunal9",
-      "src": "images/icons/youtube.gif"
     },
     "Buy Me A Coffee": {
       "href": "https://www.buymeacoffee.com/iamkunal9",
       "src": "images/icons/coff.gif"
     },
     "Contact Me": {
-      "href": "mailto:kunalsharma0553@gmail.com",
+      "href": "mailto:s21sahaj@gmail.com",
       "src": "images/icons/mail.gif"
     }
   },
